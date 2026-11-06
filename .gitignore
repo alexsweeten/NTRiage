@@ -1,0 +1,30 @@
+.DS_Store
+
+# CMake build trees and generated files
+/build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+Testing/
+*.o
+
+# N-TRIAGE output files
+*.acres.bed
+*.partials.bed
+*.arrays.tsv
+*.annotations.bed
+*.features.tsv
+*.clusters.tsv
+*.colors.tsv
+*.exclusive_kmers.tsv
+*.acres.fasta
+*.acro1_subfamilies.bed
+*.acro1_composition.tsv
+*.switch_boundaries.tsv
+*.switches.tsv
+*.switches.bed
+*.switch_arrays.bed
+*.switch_subfamilies.bed
+*.switch_subfamily_summary.tsv
